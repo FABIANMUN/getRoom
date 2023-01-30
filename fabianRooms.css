@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    min-height: 100vh;
+    display: grid;
+    justify-content:center;
+    align-items: center;
+    background-image: url(chrome3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+h1{
+    font-size: 50px;
+    color:white;
+    font-style: bold;
+}
+h2{
+    font-size: 40px;
+    font-style:bold;
+    color:rgb(39, 1, 1);
+    font-weight: 500;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: rgba(29, 6, 243, 0.476);
+    border-radius: 5px;
+}
+h4{
+    font-size: large;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
